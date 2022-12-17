@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '1d7c1ac4dc41a717dc4942d219f5f39a',
 
   PROVINCE: '',
-  CITY: 'Auckland',
+  CITY: '奥克兰',
 
   USERS: [
     {

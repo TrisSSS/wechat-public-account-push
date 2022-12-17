@@ -12,9 +12,9 @@ const USER_CONFIG = {
   APP_ID: 'wx7c76051c98d3d29b',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '95d5712ee77585ac7ebf1a9e265c8536',
+  APP_SECRET: '1d7c1ac4dc41a717dc4942d219f5f39a',
 
-  PROVINCE: '新西兰',
+  PROVINCE: '奥克兰',
   CITY: '奥克兰',
 
   USERS: [

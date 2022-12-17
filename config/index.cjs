@@ -7,6 +7,7 @@
  */
 const USER_CONFIG = {
 
+  USE_PASSAGE: 'push-deer', 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx7c76051c98d3d29b',
 
@@ -21,7 +22,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '蓓蓓',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '蓓蓓专属小狗窝(●'◡'●)',
+      id: 'PDU18709TNEF03rh0CwDwGWQkOIoFrMPHmI4F3GnM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'F9ICfALwg2kgD5aYWqo8lNWWsGxgX0rOM3Y8kJNHYDk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
